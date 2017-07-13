@@ -1,0 +1,25 @@
+body {
+  background-color: white;
+}
+
+.photo {
+  width: 800px;
+  height: 650px;
+  margin: 0 auto;
+  margin: white;
+  background-image: url('../images/cloud1.jpg');
+}
+
+.main {
+  width: 650px;
+  height: 650px;
+  margin: 0 auto;
+  border: 3px solid white;
+}
+
+/*
+.backblue {
+  background: #e1eefd;
+  width: 800px;
+  margin: 0;
+}*/

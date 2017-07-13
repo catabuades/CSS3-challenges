@@ -1,0 +1,55 @@
+body {
+	width: 70%;
+	margin: 0 auto;
+	font-family: 'arial';
+	font-size: 16px;
+	color: #ff6e19;
+}
+
+.contain {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+h1 {
+	font-family: 'arial';
+	font-size: 30px;
+	font-weight: bold;
+	color: #bd8100;
+	padding: 15px;
+}
+
+ul {
+	list-style-type: disc;
+	color: #bd8100;
+	padding-left: 50px;
+	padding-top: 24px;
+}
+
+ul li {
+	padding: 3px;
+}
+
+h2 {
+	font-family: 'arial';
+	font-size: 25px;
+	font-weight: bold;
+	color: #bd8100;
+	padding: 15px;
+}
+
+h3 {
+	font-family: 'arial';
+	font-size: 20px;
+	font-weight: bold;
+	color: #bd8100;	
+	padding: 15px;
+}
+
+p {
+	margin-top: 15px;
+	margin-left: 100px;
+	border-left: 20px solid #bd8100;
+	padding-left: 15px;
+	line-height: 24px;
+}
